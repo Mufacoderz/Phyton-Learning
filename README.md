@@ -1,2 +1,2 @@
-# Phyton-Learning
-kumpulan file belajar phyton
+# Python-Learning
+kumpulan file belajar python
